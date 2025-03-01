@@ -21,8 +21,8 @@
 <div style="display:flex; flex-wrap: wrap;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg">
 </div>
 
 ### Это мне интересно 🤔
@@ -31,7 +31,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FLStudio/flstudio3.svg">
 </div>
