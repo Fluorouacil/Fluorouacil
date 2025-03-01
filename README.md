@@ -20,7 +20,7 @@
 ### Это я изучаю 🧐
 <div style="display:flex; flex-wrap: wrap;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
 </div>
