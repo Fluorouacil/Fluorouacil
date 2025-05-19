@@ -11,6 +11,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
@@ -21,14 +23,12 @@
 <div style="display:flex; flex-wrap: wrap;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow3.svg">
 </div>
 
 ### Это мне интересно 🤔
 <div style="display:flex; flex-wrap: wrap;">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
